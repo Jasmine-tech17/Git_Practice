@@ -1,2 +1,2 @@
-Hello, 
-this file tested new branch. I'm 2nd edit to this file.
+Hi,
+Testing git rebase.
