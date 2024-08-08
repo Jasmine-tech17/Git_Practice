@@ -1,2 +1,2 @@
-Hi, 
-this file is testing new branch creation and syncing it with remote repository.
+Hello, 
+this file tested new branch. I'm 2nd edit to this file.
