@@ -25,7 +25,7 @@ Omit --global to set the identity only in this repository.
 fatal: unable to auto-detect email address (got 'ADMIN@DESKTOP-395LRC7.(none)')
 
 ADMIN@DESKTOP-395LRC7 MINGW64 ~/guvi-practice/git_workspace/Git_Practice (main)
-$ git config --global user.email "jasminechaudhary1997@gmail.com"
+$ git config --global user.email "j***@gmail.com"                                       #encoded email address in readme file only.
 
 ADMIN@DESKTOP-395LRC7 MINGW64 ~/guvi-practice/git_workspace/Git_Practice (main)
 $ git config --global user.name "Jasmine-tech17"
