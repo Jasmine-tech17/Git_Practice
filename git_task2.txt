@@ -1,2 +1,2 @@
-Hi,
-Testing git rebase.
+Hello,
+rebase try 2
